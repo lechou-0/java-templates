@@ -1,3 +1,3 @@
-language: simplejava8
+language: reportJobSucceeded
 welcome_message: |
   You have created a function using the java8 and maven template
